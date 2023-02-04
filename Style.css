@@ -17,3 +17,11 @@ text-align: left;
 {
 font-size: 22px;
 }
+
+#Cow{
+    background-color: darkgray;
+    color: #000;
+    bottom: 0px;
+    position:fixed bottom;
+    
+}
